@@ -18,7 +18,7 @@ a {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03cm;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
 }
@@ -29,7 +29,7 @@ a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02cm;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
@@ -47,9 +47,31 @@ color: #434455;
 .contact-link:hover,
 .contact-link:focus {
     color: #404BBF;
-
-
-
-.features {
-    
 }
+
+.section-one {
+    background-color: #2e2f42;
+}
+.header-name {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+
+/* line-height: 60px; */ 
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.button-name {
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+
+/* line-height: 24px; */ 
+line-height: 150%;
+letter-spacing: 0.04em;
+color: #fff;
+background-color: #4d5ae5;
+}
+
