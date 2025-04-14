@@ -72,7 +72,9 @@ color: #fff;
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.button-order-service:hover
+.button-order-service:hover {
+    background-color: #404BBF;
+}
 .button-order-service:focus {
     color: #FFFFFF;
     background-color: #404bbf;
