@@ -108,7 +108,7 @@ color: #434455;
 } 
 
 .section-three {
-    background-color: #f4f4fd;
+    background-color: #FFFFFF;
 }
 .header-section-three {
     font-family: "Roboto", sans-serif;
@@ -120,6 +120,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 .team-member {
     font-family: "Roboto", sans-serif;
@@ -153,6 +154,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 .portfolio-name {
     font-family: "Roboto", sans-serif;
