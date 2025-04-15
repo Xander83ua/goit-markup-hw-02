@@ -107,7 +107,9 @@ letter-spacing: 0.02em;
 color: #434455;
 } 
 
-
+.section-three {
+    background-color: #F4F4FD;
+}
 .header-section-three {
     font-family: "Roboto", sans-serif;
 font-weight: 700;
